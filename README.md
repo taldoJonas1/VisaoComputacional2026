@@ -124,7 +124,7 @@ contador-objetos-opencv/
 │   ├── exemplo_2.png
 │   └── resultado.png
 └── video/
-    └── funcionamento.mp4
+    └── video demonstracao visao computacional.mp4
 ```
 
 ---
