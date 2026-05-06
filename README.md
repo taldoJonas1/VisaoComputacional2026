@@ -95,12 +95,3 @@ contador-objetos-opencv/
 [!Imagem_3](imagens\imagem3.png)
 
 ---
-
-## Vídeo de Funcionamento
-
-O vídeo demonstrando a aplicação em funcionamento está disponível na pasta:
-(video\video demonstracao visao computacional.mp4)
-```
-video/funcionamento.mp4
-```
-
