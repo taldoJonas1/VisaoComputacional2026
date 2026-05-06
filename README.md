@@ -57,47 +57,7 @@ Cada contorno válido dentro do intervalo de área configurado é contado como u
 ### 8. Calibração em tempo real com Trackbars
 A aplicação abre uma janela de configuração com sliders que permitem ajustar os parâmetros de detecção (área mínima, área máxima e blur) em tempo real, sem precisar alterar o código.
 
----
 
-## Instalação
-
-Clone este repositório:
-
-```bash
-git clone https://github.com/SEU-USUARIO/contador-objetos-opencv.git
-```
-
-Entre na pasta do projeto:
-
-```bash
-cd contador-objetos-opencv
-```
-
-Instale as dependências:
-
-```bash
-pip install -r requirements.txt
-```
-
----
-
-## Como Executar
-
-Execute o arquivo principal:
-
-```bash
-python main.py
-```
-
-A webcam será aberta junto com a janela de resultado e a janela de configurações com os sliders.
-
-Para encerrar a aplicação, pressione:
-
-```
-q
-```
-
----
 
 ## Como Usar
 
